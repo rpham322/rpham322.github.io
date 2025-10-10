@@ -1,4 +1,4 @@
-# 👋👋👋 Hello there, I'm Randy Pham
+# 👋👋👋 Hello there, I'm Randy Pham 👋👋👋
 
 🎓 **B.S. Computer Science @ University of California, Riverside (June 2025)**  
 💻 **Software Engineer | Backend • Data Systems • Cloud Infrastructure(In Progress)**  
@@ -7,13 +7,13 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 About Me 🧠
 
 I’m a driven software engineer passionate about building reliable backend systems, optimizing data pipelines, and developing full-stack applications with strong attention to performance and scalability. My recent work spans from **Golang-based REST APIs** to **Machine Learning**, all grounded in modern DevOps practices like **CI/CD**, **Version control**, and **Unit testing**.
 
 ---
 
-## 🧩 Interests
+## 🧩 Interests 🧩
 
 - ⚙️ Backend Systems • Databases • Cloud Development(In Progress)  
 - 📊 Data Analysis 
@@ -21,7 +21,7 @@ I’m a driven software engineer passionate about building reliable backend syst
 ---
 
 
-## 📚 Education
+## 📚 Education 📚
 
 **University of California, Riverside**  
 _Bachelor of Science in Computer Science_ (June 2025) — Riverside, CA  
@@ -37,7 +37,7 @@ Data Analysis • Databases • Software Testing • Operating Systems • Machi
 
 ---
 
-## 🚀🚀🚀 Projects
+## 🚀 Projects 🚀
 
 ### 🤖 [MacroBot](https://github.com/randypham322/macrobot)
 **Tech:** Golang, REST APIs, DiscordGo, JSON  
@@ -65,7 +65,7 @@ Data Analysis • Databases • Software Testing • Operating Systems • Machi
 
 ---
 
-## 💼💼💼 Experience
+## 💼 Experience 💼
 
 ### 💡 [Cutie Hackathon](https://github.com/randypham322/cutie-hackathon)
 **Tech:** C++, Figma  
