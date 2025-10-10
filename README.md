@@ -28,7 +28,7 @@ _Bachelor of Science in Computer Science_ (June 2025) — Riverside, CA
 
 **Relevant Coursework:**  
 Data Analysis • Databases • Software Testing • Operating Systems • Machine Learning • Data Structures & Algorithms • Software Construction • Information Retrieval  
-## 🛠 Technical Skills
+## 🛠 Technical Skills 🛠
 
 **Languages:** Python • C++ • Golang • Bash • PowerShell • HTML • CSS • JavaScript • Java  
 **Frameworks & Tools:** Git • CMake • MySQL • PostgreSQL • Spark • VS Code • GTest • Slack • REST APIs • JSON  
