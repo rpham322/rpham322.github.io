@@ -65,6 +65,8 @@ Data Analysis • Databases • Software Testing • Operating Systems • Machi
 
 ---
 
+## 💼💼💼 Experience
+
 ### 💡 [Cutie Hackathon](https://github.com/randypham322/cutie-hackathon)
 **Tech:** C++, Figma  
 - Developed a weather analytics program to calculate optimal lawn watering schedules using rainfall data.  
